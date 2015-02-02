@@ -6,7 +6,7 @@
     <exe-path>C:\Users\rogergra\AppData\Roaming\npm\bower.cmd</exe-path>
     <config-path />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+  <component name="ProjectRootManager" version="2" />
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -24,4 +24,3 @@
     </states>
   </component>
 </project>
-
